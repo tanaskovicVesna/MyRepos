@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRepos-Retrofit-Loader</string>
+    <string name="no_internet">No internet</string>
+    <string name="sth_went_wrong">Something went wrong</string>
+    <string name="no_repos">No repo</string>
+</resources>
